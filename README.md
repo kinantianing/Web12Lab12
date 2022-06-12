@@ -423,6 +423,8 @@ Tambahkan fungsi/method baru pada Controller Artikel dengan nama delete(), tamba
         return redirect('admin/artikel');
     }
 ```
+### 20. File CSS
+File css yang digunakan untuk program diatas yaitu file `artikel_style.css` yang disimpan pada folder Public.
 <br>
 
 POGRAM SELESAI DIBUAT.

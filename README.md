@@ -443,7 +443,7 @@ Mencoba menambahkan satu data baru lagi dengan judul artikel keempat, menjadi se
 
 ### 2. Fitur Edit/Ubah
 Mencoba mengubah artikel dengan klik fitur Ubah pada artikel yang ingin diubah, seperti dibawah ini : <br>
-Pilih artikel keempat, Lau diubah pada bagian judul dan isinya dari `Artikel keempat` menjadi `Artikel kelima`. <br>
+Pilih artikel keempat, Lalu diubah pada bagian judul dan isinya dari `Artikel keempat` menjadi `Artikel kelima`. <br>
 ![Gambar 12](screenshot/12.PNG) <br>
 
 Lalu klik `Kirim`, maka data artikel akan terubah dan muncul pada menu artikel dan menu dashboard seperti dibawah ini : <br>
